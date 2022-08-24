@@ -1,0 +1,36 @@
+
+ 
+   .header-container{
+   
+    margin-inline: 5px;
+    background-color: rgb(241, 236, 191);
+    
+
+    
+}
+ 
+.r{
+   float: left;
+   display: inline;
+margin-left: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+ } 
+    
+ 
+ .m{
+   float: right;
+   display: inline;
+   margin-right: 500px;
+   margin-top: 5px;
+ }
+ .vertical-Line {
+    border-right: 200px solid #535269;
+    height: 200px;
+  }
+h4{
+    color: rgba(224, 150, 38, 0.911);
+}
+.clear{
+   clear: both;
+}
